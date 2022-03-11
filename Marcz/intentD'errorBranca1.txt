@@ -1,1 +1,2 @@
+cout << "Intent d'error núm " << intenterror;
 cout << "Intent d'error núm 2" << intenterror;
