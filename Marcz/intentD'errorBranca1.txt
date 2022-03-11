@@ -1,1 +1,1 @@
-cout << "Intent d'erro a la branca b1" << intenterror;
+cout << "Intent d'error núm " << intenterror;
