@@ -1,0 +1,1 @@
+cout << "Intent d'error núm 2" << intenterror;
